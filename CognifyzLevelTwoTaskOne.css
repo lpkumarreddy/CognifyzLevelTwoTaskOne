@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+.navbar-nav {
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    padding: 15px;
+}
+
+a {
+    padding: 14px;
+    color: #875309;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+a:hover {
+    color: #051b7d;
+}
+
+h1 {
+    padding: 5px;
+    color: #051b7d;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "copperplate";
+}
+
+.description {
+
+    margin: 10px 30px 5px 30px;
+    color: #3046ab;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.image {
+    height: 40vh;
+    width: 50vw;
+    border-radius: 8px;
+}
+
+.input {
+    width: 36vw;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border-color: black;
+    padding: 2px;
+
+}
+
+.btn {
+    margin-top: 20px;
+    margin-left: 15px;
+    height: 42px;
+}
+
+.btn:hover {
+    background-color: #051b7d;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    transform: translateY(-4px);
+    color: #fff;
+    font-weight: bold;
+}
+
+
+.shopnowspan {
+    padding: 5px;
+    color: #051b7d;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Monoton";
+}
+
+.aboutsectionheading {
+    padding: 5px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.aboutsectiondescription {
+    color: #565182;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.aboutimg {
+    margin-top: 14px;
+    height: 30vh;
+    width: 30vw;
+}
+
+.Deliverydescription {
+    color: #565182;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.deliveryimg {
+    height: 30vh;
+    width: 30vw;
+}
+
+.offersheading {
+    padding: 5px;
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.offers-box {
+    border-width: 2px;
+    border-color: lightgray;
+    border-radius: 16px;
+    border-style: dashed;
+}
+
+.offersimg {
+    height: 160px;
+    width: 180px;
+    border-radius: 8px;
+}
+
+.card-title {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.card-text {
+    color: #565182;
+    font-size: 14px;
+    font-family: "Roboto";
+}
+
+.contact {
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.followus-fb {
+    font-size: 20px;
+    color: #4267B2;
+}
+
+.followus-yt {
+    font-size: 20px;
+    color: red;
+}
+
+.followus-x {
+    font-size: 20px;
+    color: #000;
+}
+
+.followus-i {
+    font-size: 20px;
+    color: #C13584;
+}
+
+.followsectionheadings {
+    font-size: 12px;
+    color: #57575e;
+    padding: 2px;
+}
+
+.followus-section-h {
+    font-size: 12px;
+    color: #151959;
+    padding: 2px;
+    font-weight: bold;
+}
+
+.followus-section-p {
+    font-size: 12px;
+    color: darkblue;
+    padding: 2px;
+}
